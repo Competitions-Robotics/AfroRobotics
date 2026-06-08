@@ -1,2 +1,2 @@
 # AfroRobotics
-This repo is for the WRO robotics competition, category Future Engineer
+This repo is for robotics competition
